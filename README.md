@@ -1,1 +1,1 @@
-Repositorio curso de backend
+Repositório do curso de BACKEND
