@@ -1,0 +1,42 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vcxproj.user
+TestResults/
+packages/
+*.nupkg
+*.snk
+*.pdb
+*.ldb
+*.log
+*.vsix
+_ReSharper*/
+/.idea/
+*.db
+*.db-journal
+reproducible-build/
+global.json
+project.lock.json
+*.dotCover
+node_modules/
+/.vscode/
+*.vsp
+*.vspscc
+*.vssscc
+*.orig
+*.cache
+*.zip
+*.7z
+
+# Ignore Rider
+/.idea/
+
+# NuGet
+*.nupkg
+
+# Rider caches
+.idea/

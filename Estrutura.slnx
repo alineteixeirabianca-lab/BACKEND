@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Apllcativo01/Apllcativo01.csproj" />
+  <Project Path="Estrutura/Estrutura.csproj" />
+  <Project Path="Moeda/Moeda.csproj" />
+</Solution>
